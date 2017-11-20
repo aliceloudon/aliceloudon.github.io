@@ -30,13 +30,6 @@ h1 {
   color: #4682B4;
 }
 
-.link {
-  text-decoration: underline;
-  color: #75767D;
-  margin-bottom: 2%;
-  text-align: center;
-}
-
 h2 {
   margin-top:5%;
   font-size: 1.1em;
@@ -74,11 +67,13 @@ p {
   list-style-type: none;
   padding: 0;
   margin-bottom: 5%;
-  margin-left: 0;
+  text-align: center;
 }
 
 a {
-
+  text-decoration: underline;
+  color: #75767D;
+  margin-bottom: 2%;
 }
 
 ul {
