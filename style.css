@@ -22,8 +22,19 @@ h1 {
   margin: 0;
   font-size: 1.5em;
   letter-spacing: 2px;
+  text-align: center;
   padding-bottom: 4%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   color: #4682B4;
+}
+
+.link {
+  text-decoration: underline;
+  color: #75767D;
+  margin-bottom: 2%;
+  text-align: center;
 }
 
 h2 {
@@ -67,9 +78,7 @@ p {
 }
 
 a {
-  text-decoration: underline;
-  color: #75767D;
-  margin-bottom: 2%;
+
 }
 
 ul {
